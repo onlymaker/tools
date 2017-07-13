@@ -1,0 +1,11 @@
+#settings
+/php.ini
+/cfg/local.ini
+
+#storage
+/logs
+/downloads
+
+#composer
+/composer.lock
+/vendor

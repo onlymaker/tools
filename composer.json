@@ -1,0 +1,20 @@
+{
+    "name": "syncxplus/toolbox",
+    "authors": [
+        {
+            "name": "jibo",
+            "email": "jibo@outlook.com"
+        }
+    ],
+    "license": "Unlicense",
+    "require": {
+        "bcosca/fatfree": "3.6.2",
+        "phpoffice/phpexcel": "1.8.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
