@@ -8,7 +8,7 @@ class OMS
 {
     public static function instance()
     {
-        $name = 'OMS';
+        $name = 'MYSQL';
 
         if (!\Registry::exists($name)) {
             $f3 = F3::instance();
